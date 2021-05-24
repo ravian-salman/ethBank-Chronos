@@ -2,6 +2,7 @@
 
 <h3> Development Guide </h3>
 **How to build and run locally**
+
 *Install NPM, truffle and git if not present on the system
 *Clone the repo using git clone
 *npm install - Install all NodeJS dependencies
