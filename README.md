@@ -1,7 +1,7 @@
 # ethBank-Chronos
 
 <h3> Development Guide </h3>
-**How to build and run locally**
+<h5>How to build and run locally</h5>
 
 *Install NPM, truffle and git if not present on the system
 *Clone the repo using git clone
